@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software\\Simple ATM Software.csproj": {}
+    "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software\\Simple ATM Software.csproj": {
+    "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software\\Simple ATM Software.csproj",
+        "projectUniqueName": "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software.csproj",
         "projectName": "Simple ATM Software",
-        "projectPath": "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software\\Simple ATM Software.csproj",
+        "projectPath": "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software.csproj",
         "packagesPath": "C:\\Users\\jiand\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\Simple ATM Software\\obj\\",
+        "outputPath": "D:\\Code\\Projects-C\\c#\\Simple ATM Software\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jiand\\AppData\\Roaming\\NuGet\\NuGet.Config"
